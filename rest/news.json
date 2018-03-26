@@ -1,0 +1,25 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "day": 10,
+      "month": "JUNI",
+      "title": "Neuer Ortsbrandmeister gesucht",
+      "description": "Buntes Kinderprogramm und eine Vorführung der Feuerwehr auf dem Sportplatz."
+    },
+    {
+      "id": 2,
+      "day": "25",
+      "month": "AUG",
+      "title": "Stadtausscheid",
+      "description": "Stadtausscheid mit Zeltlager in Marbach vom 25. - 27. August."
+    },
+    {
+      "id": 3,
+      "day": "15",
+      "month": "SEP",
+      "title": "Jugendlager Feuerkappe",
+      "description": "Jugendlager Feuerkappe vom 15. - 16. Septmeber."
+    }
+  ]
+}
